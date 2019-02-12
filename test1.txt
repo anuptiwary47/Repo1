@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E08D-DAD9
+
+ Directory of C:\Anup Tiwary\Tools\GIT\Projects
+
+12-02-2019  10:43    <DIR>          .
+12-02-2019  10:43    <DIR>          ..
+12-02-2019  10:43                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  881,567,358,976 bytes free
